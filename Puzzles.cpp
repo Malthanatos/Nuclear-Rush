@@ -7,7 +7,7 @@ using namespace std;
 void p1(){
 	SetConsoleTitle("Puzzle 1");
 	//ICS
-	cout << "01001001 01000011 01010011 has a brother. This brother has a secret.\nThis secret is guarded by a password which does not involve the number 174.\nIf it did then the password would be 81322, but it does not, so it is not.\nAnyways what you want is most assuredly not the name of the farthest\ncomputer from every other." << endl;
+	cout << "01001001 01000011 01010011 has a brother. This brother has a secret.\nThis secret is guarded by a password which does not involve the number 170.\nIf it did then the password would be 81322, but it does not, so it is not.\nAnyways what you want is most assuredly not the name of the farthest\ncomputer from every other." << endl;
 	cin.get();
 	cout << "This challenge was definitely NOT written to say exactly the opposite\nof what it says" << endl;
 	cin.get();
